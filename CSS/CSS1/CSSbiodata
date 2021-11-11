@@ -1,0 +1,14 @@
+.box{
+	background: #d8d3ae;
+	height: 50px;
+	width: 300px;
+	margin: 10px;
+}
+
+.box-dua{
+	background: #dedbc5;
+	height: 250px;
+	width: 600px;
+	margin: 50px;
+}
+ 
